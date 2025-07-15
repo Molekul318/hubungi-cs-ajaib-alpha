@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://kontak-customer-service-ajaib-93y1.vercel.app/sitemap.xml
